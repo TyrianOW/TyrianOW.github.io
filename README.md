@@ -1,1 +1,218 @@
-# TyrianOW.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Portfolio of Tiger Akalec F. Elegores, a passionate coder with skills in Python, Java, Kotlin, and UI/UX Design.">
+    <title>Tiger Akalec's Coding Portfolio</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f5f5f5; 
+            color: #333; 
+        }
+        header {
+            background: linear-gradient(135deg, #004d40, #00aaff); 
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+            position: relative;
+            z-index: 10; 
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            color: #fff; 
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); 
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 20px 0 0;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+        nav ul li {
+            display: inline;
+        }
+        nav ul li a {
+            color: #fff; 
+            text-decoration: none;
+            font-size: 1.2em;
+            transition: color 0.3s ease; 
+        }
+        nav ul li a:hover {
+            color: #ff5722; 
+            text-decoration: underline;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+        }
+        .section {
+            margin: 40px 0;
+            padding: 20px;
+            background: #ffffff; 
+            border: 1px solid #ddd; 
+            border-radius: 10px;
+        }
+        .section h2 {
+            color: #004d40;
+            border-bottom: 2px solid #004d40; 
+            padding-bottom: 10px;
+        }
+        .about-me {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+        .about-me img {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            border: 3px solid #00aaff;
+        }
+        .projects {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        .project {
+            background: #f9f9f9; 
+            border: 2px solid #00aaff; 
+            border-radius: 10px;
+            padding: 20px;
+            width: calc(50% - 20px);
+            box-sizing: border-box;
+        }
+        .project h3 {
+            color: #004d40; 
+        }
+        .project p {
+            color: #555; 
+        }
+        .project-img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+        footer {
+            background: #002e40; 
+            padding: 20px 0;
+            text-align: center;
+            border-top: 5px solid #00aaff; 
+        }
+        .footer-content {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .footer-content p {
+            margin: 10px 0;
+        }
+        .footer-content a {
+            color: #00aaff; 
+            text-decoration: none;
+        }
+        .footer-content a:hover {
+            text-decoration: underline;
+        }
+        .social-links {
+            list-style: none;
+            padding: 0;
+            margin: 10px 0;
+        }
+        .social-links li {
+            display: inline;
+            margin: 0 10px;
+        }
+        .social-links li a {
+            color: #00aaff; 
+            text-decoration: none;
+        }
+        .social-links li a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Tiger's Code Portfolio</h1>
+            <nav>
+                <ul>
+                    <li><a href="#about">About Me</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    
+    <div class="container">
+        <section id="about" class="section">
+            <h2>About Me</h2>
+            <div class="about-me">
+                <img src="images/profile.jpg" alt="Profile Picture">
+                <p>I'm a coder with a passion for gaming and technology. I want to continue my coding journey, focusing on gaming and web development. I mainly use Python and Java, and I'm starting to learn Kotlin and Figma. I specialize in UI/UX Design.</p>
+            </div>
+        </section>
+        
+        <section id="projects" class="section">
+            <h2>Projects</h2>
+            <div class="projects">
+                <div class="project">
+                    <img src="path/to/project1-image.jpg" alt="Tic-Tac-Tics" class="project-img">
+                    <div class="project-info">
+                        <h3>Tic-Tac-Tics</h3>
+                        <p>This is a game created using Python, developed during my first year and as a college project.</p>
+                    </div>
+                </div>
+                <div class="project">
+                    <img src="path/to/project2-image.jpg" alt="Res-tie-Ant" class="project-img">
+                    <div class="project-info">
+                        <h3>Res-tie-Ant</h3>
+                        <p>This is a website created with HTML and CSS. It was a team project for rating restaurants and food reviews.</p>
+                    </div>
+                </div>
+                <div class="project">
+                    <img src="path/to/project3-image.jpg" alt="Upang-Nav" class="project-img">
+                    <div class="project-info">
+                        <h3>Upang-Nav</h3>
+                        <p>This application was created in Java using NetBeans. It provides navigation for the University of Pangasinan.</p>
+                    </div>
+                </div>
+                <div class="project">
+                    <img src="path/to/project4-image.jpg" alt="Coffee Combi" class="project-img">
+                    <div class="project-info">
+                        <h3>Coffee Combi</h3>
+                        <p>This project is still in development, using Android Studio and Kotlin to create a coffee maker app for mobile.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section id="contact" class="section">
+            <h2>Contact</h2>
+            <p>If you'd like to contact me, please reach out via email at <a href="mailto:tifa.elegores.up@phinmaed.com">tifa.elegores.up@phinmaed.com</a>.</p>
+        </section>
+    </div>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <p>&copy; 2024 Tiger Akalec. All rights reserved.</p>
+                <ul class="social-links">
+                    <li><a href="https://github.com/TyrianOW">GitHub</a></li>
+                    <li><a href="https://www.linkedin.com/in/tiger-akalec-fabia-elegores-542aa028a/">LinkedIn</a></li>
+                    <li><a href="https://www.facebook.com/tigerakalec.elegores.1">Facebook</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
