@@ -1,0 +1,46 @@
+body {
+    background-color: #F9EDE2;
+
+
+}
+header{
+    background-color: #A71616;
+    width: 100%; /* Make the header span the full width of the viewport */
+    height: 73px; /* Set the height of the header */
+}
+
+.tophead-username p1 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    position: relative;
+
+    top: 20px;
+    left: 20px;
+}
+
+.tophead-username p2 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    position: relative;
+
+    top: 20px;
+    left: 600px;
+}
+
+.search-tab {
+    background-color: #F9EDE2;
+    height: 50px;
+    width: 400px;
+    border-radius: 25px; /* Adjust the value to control the curvature */
+    position: absolute;
+    top: 20px;
+    left: 1250px;
+}
+
+.input{
+    background-color: blueviolet;
+
+
+}

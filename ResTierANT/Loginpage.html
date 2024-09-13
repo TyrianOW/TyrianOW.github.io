@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Form</title>
+    <style>
+        /* Global styles */
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #F9EDE2;
+            color: #000000;
+        }
+
+        /* Form container */
+        .container {
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #FFFFFF;
+            border: 1px solid #6C0F0F;
+            border-radius: 10px;
+        }
+
+        /* Input fields */
+        input[type="text"],
+        input[type="password"] {
+            width: 100%;
+            padding: 12px;
+            margin: 8px 0;
+            border: 1px solid #6C0F0F;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+
+        /* Login button */
+        button[type="submit"] {
+            background-color: #A71616;
+            color: #FFFFFF;
+            padding: 14px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            width: 100%;
+        }
+
+        /* Sign-up hyperlink */
+        .signup-link {
+            text-align: center;
+            margin-top: 10px;
+        }
+
+        .signup-link a {
+            color: #6C0F0F;
+            text-decoration: none;
+        }
+
+        /* Logo font */
+        .logo {
+            font-family: 'Literata', serif;
+            font-size: 24px;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">Res-tier-ant</div>
+        <form action="action_page.php" method="post">
+            <label for="uname"><b>Username</b></label>
+            <input type="text" placeholder="Enter Username" name="uname" required>
+
+            <label for="psw"><b>Password</b></label>
+            <input type="password" placeholder="Enter Password" name="psw" required>
+
+            <button type="submit">Login</button>
+            <div class="signup-link">
+                Don't have an account? <a class="active" href="Signup.html">Sign up</a>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

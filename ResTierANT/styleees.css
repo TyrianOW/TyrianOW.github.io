@@ -1,0 +1,506 @@
+/* Rectangle 5 */
+.rectangle5 {
+position: absolute;
+width: 1436px;
+height: 1610px;
+left: 4px;
+top: 336px;
+
+background: #F9EDE2;
+}
+
+/* Rectangle 10 */
+.rectangle10 {
+box-sizing: border-box;
+
+position: absolute;
+width: 1440px;
+height: 265px;
+left: 2px;
+top: 71px;
+
+background: url(errwrwrwe.JPG), #D9D9D9;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+/* Browse and Rate Restaurants  in Dagupan City with Res-tier-ant! */
+.Browse {
+position: absolute;
+width: 999px;
+height: 191px;
+left: 26px;
+top: 91px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 59px;
+
+color: #FFFFFF;
+
+}
+
+/* RES - TIER - ANT */
+.Res-Tier-Ant {
+position: absolute;
+width: 294px;
+height: 62px;
+left: 605px;
+top: 186px;
+
+font-family: 'Literata';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 52px;
+
+color: #FFFFFF;
+
+}
+
+/* Rectangle 33 */
+.Rectangle33 {
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 198px;
+left: 48px;
+top: 389px;
+
+background: url(errwrwrwe.JPG), #D9D9D9;
+border: 1px solid #000000;
+border-radius: 49px 49px 0px 0px;
+}
+
+/* Rectangle 34 */
+.Rectangle34{
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 198px;
+left: 525px;
+top: 389px;
+
+background: #6C0F0F;
+border: 1px solid #000000;
+border-radius: 49px 49px 0px 0px;
+}
+
+/* Rectangle 35 */
+.Rectangle35 {
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 198px;
+left: 48px;
+top: 699px;
+
+background: #6C0F0F;
+border: 1px solid #000000;
+border-radius: 49px 49px 0px 0px;
+}
+
+/* Rectangle 36 */
+.Rectangle36{
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 198px;
+left: 525px;
+top: 699px;
+
+background: #6C0F0F;
+border: 1px solid #000000;
+border-radius: 49px 49px 0px 0px;
+
+}
+
+
+
+
+/* Rectangle 88 */
+.Rectangle88{
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 198px;
+left: 1003px;
+top: 699px;
+
+background: #6C0F0F;
+border: 1px solid #000000;
+border-radius: 49px 49px 0px 0px;
+
+}
+
+/* Rectangle 87 */
+.Rectangle87 {
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 198px;
+left: 1003px;
+top: 389px;
+
+background: #6C0F0F;
+border: 1px solid #000000;
+border-radius: 49px 49px 0px 0px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Rectangle 37 */
+.Rectangle37 {
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 198px;
+left: 1003px;
+top: 389px;
+
+background: #6C0F0F;
+border: 1px solid #000000;
+border-radius: 49px 49px 0px 0px;
+}
+
+/* Rectangle 38 */
+.Rectangle37 {
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 198px;
+left: 1003px;
+top: 699px;
+
+background: #6C0F0F;
+border: 1px solid #000000;
+border-radius: 49px 49px 0px 0px;
+
+}
+/* Rectangle 8 */
+.Rectangle8 {
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 82px;
+left: 48px;
+top: 587px;
+
+background: #FFFFFF;
+border: 2px solid #000000;
+border-radius: 0px 0px 50px 50px;
+
+}
+/* Rectangle 39 */
+.Rectangle37 {
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 82px;
+left: 525px;
+top: 587px;
+
+background: #FFFFFF;
+border: 2px solid #000000;
+border-radius: 0px 0px 50px 50px;
+
+}
+/* Rectangle 40 */
+.Rectangle40 {
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 82px;
+left: 1003px;
+top: 587px;
+
+background: #FFFFFF;
+border: 2px solid #000000;
+border-radius: 0px 0px 50px 50px;
+}
+
+/* Rectangle 41 */
+.Rectangle41 {
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 82px;
+left: 48px;
+top: 897px;
+
+background: #FFFFFF;
+border: 2px solid #000000;
+border-radius: 0px 0px 50px 50px;
+}
+
+/* Rectangle 42 */
+.Rectangle42 {
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 82px;
+left: 525px;
+top: 897px;
+
+background: #FFFFFF;
+border: 2px solid #000000;
+border-radius: 0px 0px 50px 50px;
+}
+
+/* Rectangle 43 */
+.Rectangle43 {
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 82px;
+left: 1002px;
+top: 897px;
+
+background: #FFFFFF;
+border: 2px solid #000000;
+border-radius: 0px 0px 50px 50px;
+}
+
+/* Jollibee */
+.Jollibee1 {
+position: absolute;
+width: 255px;
+height: 30px;
+left: 117px;
+top: 606px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 55px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+}
+
+/* Restaurants */
+.Rectangle21 {
+position: absolute;
+width: 454px;
+height: 57px;
+left: 11px;
+top: 332px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 55px;
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+
+/* McDo1 */
+.Mcdo1 {
+position: absolute;
+width: 254px;
+height: 34px;
+left: 586px;
+top: 603px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 59px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+}
+
+/* McDo2 */
+.Mcdo2 {
+position: absolute;
+width: 254px;
+height: 33px;
+left: 1127px;
+top: 603px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 55px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+}
+
+/* Silantro */
+.Silantro {
+position: absolute;
+width: 268px;
+height: 52px;
+left: 104px;
+top: 913px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 55px;
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+
+/* Pedritos */
+.pedritos{
+position: absolute;
+width: 251px;
+height: 61px;
+left: 609px;
+top: 911px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 55px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+}
+
+/* Rectangle 47 */
+.Rectangle47 {
+position: absolute;
+width: 1440px;
+height: 73px;
+left: 0px;
+top: -2px;
+
+background: #A71616;
+mix-blend-mode: normal;
+box-shadow: 0px 10px 20px #2C2C2C;
+}
+
+/* Rectangle 48 */
+.Rectangle48 {
+position: absolute;
+width: 367px;
+height: 49px;
+left: 974px;
+top: 10px;
+
+background: #FFFFFF;
+border-radius: 50px;
+}
+
+/* search */
+.serach{
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1003px;
+top: 16px;
+}
+
+
+/* list */
+.list{ 
+position: absolute;
+width: 51px;
+height: 54px;
+left: 1365px;
+top: 7px;
+}
+
+
+/* Username */
+.username{
+position: absolute;
+width: 153px;
+height: 42px;
+left: 85px;
+top: 14px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 42px;
+
+}
+/* identical to box height */
+.boxidentical1{
+color: #FFFFFF;
+
+}
+
+
+
+/* RES - TIER - ANT */
+.RES-TIER-ANT3{
+position: absolute;
+width: 265px;
+height: 48px;
+left: 609px;
+top: 8px;
+
+font-family: 'Literata';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+}
+/* identical to box height */
+.boxidentical2{
+    color: #FFFFFF;
+    
+    }
+/* account_circle */
+.Account-Circle{
+position: absolute;
+width: 50px;
+height: 48.44px;
+left: 11px;
+top: 8px;
+
+}
